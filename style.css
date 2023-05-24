@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(256, 239, l15);
+    display: flex;
+    justify-content: center;
+}
+
+header li{
+    display: inline;
+    padding: 45px;
+}
